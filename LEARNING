@@ -1,0 +1,13 @@
+CRUD OPERATIONS
+----------------
+	C - CREATE
+	R - READ
+	U - UPDATE
+	D - DELETE
+
+HTTP (REQUEST-REPONSE MODEL) VERBS/METHODS
+------------------------------------------
+	GET      -  READ
+	PUT		 -  UPDATE
+	POST     -  CREATE
+	DELETE	 -  DELETE
